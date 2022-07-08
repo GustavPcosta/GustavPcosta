@@ -9,7 +9,7 @@ Atualmente estou em busca de uma oportunidade de estar aprimorando essas habilid
 [![projects](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cubos-crm.netlify.app/)
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetsuBranco&show_icons=true&theme=dracula)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavPcosta&show_icons=true&theme=dracula)
 
 ## tecnologias que eu uso
 
