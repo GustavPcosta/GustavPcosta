@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**GustavPcosta/GustavPcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+olá! eu sou Gustavo Costa ✌️
 
-Here are some ideas to get you started:
+Atualmente comecei na área da programação fazendo o curso intensivo da Cubos Academy, no qual, o principal objetivo era desenvolver profissionais capazes de lhe dar com as tecnologias que mais são pedidas no mercado de trabalho.
+Atualmente estou em busca de uma oportunidade de estar aprimorando essas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Likedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-costa-9a1318225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba1RWc64XRCW%2F9qCroZ41Yw%3D%3D)
+[![projects](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cubos-crm.netlify.app/)
+
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ZetsuBranco&show_icons=true&theme=dracula)
+
+## tecnologias que eu uso
+
+<div style='display: inline_block'>
+<img align='center' alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
+</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
+</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img>
+</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
+</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+</div>
+</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></img>
+</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></img>
+</div></br>
+
+ 
+ 
+
