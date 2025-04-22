@@ -1,8 +1,7 @@
 
 olá! eu sou Gustavo Costa ✌️
 
-Atualmente comecei na área da programação fazendo o curso intensivo da Cubos Academy, no qual, o principal objetivo era desenvolver profissionais capazes de lhe dar com as tecnologias que mais são pedidas no mercado de trabalho.
-Atualmente estou em busca de uma oportunidade de estar aprimorando essas habilidades.
+Bem vindo ao meu github. Aqui você encontrará alguns dos meus projetos que já desenvolvi usando as linguagens mais relevantes para o mercado da tecnologia
 
 
 [![Likedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-costa-9a1318225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba1RWc64XRCW%2F9qCroZ41Yw%3D%3D)
