@@ -1,28 +1,95 @@
+<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
-olá! eu sou Gustavo Costa ✌️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Computa%C3%A7%C3%A3o+na+UESC;Aprendendo+Java+%26+L%C3%B3gica;Explorando+Linux+e+Open+Source;Sempre+codando+algo+novo!&font=Fira%20Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-Bem vindo ao meu github. Aqui você encontrará alguns dos meus projetos que já desenvolvi usando as linguagens mais relevantes para o mercado da tecnologia
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=58a6ff&style=flat" alt="visitor badge"/>
+</p>
 
+---
 
-[![Likedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-costa-9a1318225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba1RWc64XRCW%2F9qCroZ41Yw%3D%3D)
-[![projects](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cubos-crm.netlify.app/)
+### 🚀 Sobre mim
 
+- 🎓 Estudante do **DES (Departamento de Engenharias e SOFTWARE)** na **JALA UNIVERSITY**
+- 💻 Cursando também **Engenharia de software** na **Jala University**
+- 🧠 Estudando lógica proposicional, pensamento computacional e estruturas de algoritmos
+- 🐧 Usuário de **Linux (Ubuntu)** no dia a dia
+- 🎮 Nas horas vagas: jogos online e andar de skate
+- 🔭 Trabalhando em projetos como um **simulador de ecossistema em Java** e um **blog em equipe**
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavPcosta&show_icons=true&theme=dracula)
+---
 
-## tecnologias que eu uso
+### 🛠️ Tecnologias & Ferramentas
 
-<div style='display: inline_block'>
-<img align='center' alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
-</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
-</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img>
-</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
-</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
-</div>
-</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></img>
-</div><div style='display: inline_block'><img align='center' alt="css" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></img>
-</div></br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode,html,css,js" />
+</p>
 
+---
+
+### 📌 Projetos em destaque
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_ECOSSISTEMA&theme=default" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_BLOG&theme=default" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 💡 Troque `SEU_USUARIO`, `NOME_DO_REPO_ECOSSISTEMA` e `NOME_DO_REPO_BLOG` pelos nomes reais do seu perfil e repositórios.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribuições (snake game)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚙️ Este "jogo da cobrinha" é gerado automaticamente por uma GitHub Action. Veja como configurar em: [Platane/snk](https://github.com/Platane/snk)
+
+---
+
+### 📫 Como me encontrar
+
+<p align="center">
+  <a href="mailto:SEU_EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
+</p>
  
  
 
