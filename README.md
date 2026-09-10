@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Software%C3%A7%C3%A3o+na+JALA;Aprendendo+Java+%26+L%C3%B3gica;Explorando+Linux+e+Open+Source;Sempre+codando+algo+novo!&font=Fira%20Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Software%C3%A7%C3%A3o+na+JALA;Code+Java+%26+L%C3%B3gica;Explorando+Linux+e+Open+Source;Sempre+codando+algo+novo!&font=Fira%20Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
